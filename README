@@ -1,0 +1,13 @@
+PRELUDE OF THE CHAMBERED
+
+This is a modified version of Notch's 48 hour "Ludum Dare" game competition entry.
+The code has been changed to use 64 x 64 textures instead of 16 x 16. The engine
+seems to be running fast enough to support the resolution increase.
+
+While the graphics do not look significantly better than the original version, the
+texture files allow for much finer detail.
+
+I shall be adding better textures in subsequent commits.
+
+COPYRIGHT NOTICE:
+Prelude of the Chambered remains the intellectual property of notch (Markus Persson)
